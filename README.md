@@ -3,7 +3,7 @@ You could add a lot of PacMen on a page and they could move ramdonly
 
 ## How to run:
 
-1. Fork and download the project
+1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) and download the project
 2. Open index.html file in the browser
 
 ## Usage:
