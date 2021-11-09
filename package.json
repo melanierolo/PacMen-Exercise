@@ -1,0 +1,19 @@
+{
+  "name": "pacmen-exercise",
+  "version": "1.0.0",
+  "description": "You could add a lot of PacMen on a page and they could move ramdonly",
+  "main": "pacmen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanierolo/PacMen-Exercise.git"
+  },
+  "author": "Melanie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melanierolo/PacMen-Exercise/issues"
+  },
+  "homepage": "https://github.com/melanierolo/PacMen-Exercise#readme"
+}
