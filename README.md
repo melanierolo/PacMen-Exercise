@@ -13,7 +13,7 @@ You could add a lot of PacMen on a page and they could move ramdonly
 ## Roadmap:
 
 v1.0: 
-1. 
+1. Add PacMen and move on the page
 
 ## License information: 
 
