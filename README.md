@@ -1,5 +1,5 @@
 # PacMen-Exercise
-You could add a lot of PacMen on a page and they could move ramdonly
+You could create a lot of PacMen with the click button and they could move ramdon velocity across the screen
 
 ## How to run:
 
