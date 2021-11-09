@@ -1,5 +1,5 @@
 # PacMen-Exercise
-You could add a lot of PacMen on a page 
+You could add a lot of PacMen on a page and they could move ramdonly
 
 ## How to run:
 
@@ -14,7 +14,6 @@ You could add a lot of PacMen on a page
 
 v1.0: 
 1. 
-2. 
 
 ## License information: 
 
