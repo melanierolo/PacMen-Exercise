@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/89095047/140855410-d314938b-88e3-45f5-
 ## Roadmap:
 
 v1.0: 
-1. Add PacMen and move on the page
+1. Add PacMen and they move on the page
 
 ## License information: 
 
